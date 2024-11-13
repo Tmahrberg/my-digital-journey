@@ -24,19 +24,19 @@ sudo apt-get update
 ""_If you use an Ubuntu derivative distro, such as Linux Mint, you may need to use `UBUNTU_CODENAME` instead of `VERSION_CODENAME`._""
 
 
-Install the latest version
+##### Install the latest version
 
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 
-Check installed version
+##### Check installed version
 
 docker -v
 
-Check docker compose
+##### Check docker compose
 
 docker compose
 
-Check runtime
+##### Check runtime
 
 sudo docker run hello-world
 
