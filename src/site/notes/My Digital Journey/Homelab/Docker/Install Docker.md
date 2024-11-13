@@ -59,7 +59,7 @@ If you need to uninstall docker, run the following
 
 
 
-
+Check what software i run using docker here:
 [[My Digital Journey/Homelab/My software of choice!\|My software of choice!]]
 
 
