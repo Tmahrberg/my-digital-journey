@@ -1,14 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
-```
----
-dg-home: true
-dg-publish: true
----
-```
-
-THis is my first note
-
-
+[[Welcome\|Welcome]]
+This is my first note
