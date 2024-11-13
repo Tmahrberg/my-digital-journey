@@ -6,3 +6,4 @@
 This is my second note.
 
 You can find my first note [[My Digital Journey/Welcome\|Welcome]]
+
