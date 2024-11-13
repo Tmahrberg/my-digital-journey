@@ -4,9 +4,16 @@
 
 This is a list of my software i use.
 
+##### Hypervisor
 [[My Digital Journey/Homelab/Proxmox/Proxmox\|Proxmox]]
-[[My Digital Journey/Homelab/Docker/Install Docker\|Install Docker]]
+
+##### Storage
 [[My Digital Journey/Homelab/TrueNAS/TrueNAS\|TrueNAS]]
+
+##### Applications
+[[My Digital Journey/Homelab/Docker/Install Docker\|Install Docker]]
+
+
 
 I am a big Linux advocate
 
