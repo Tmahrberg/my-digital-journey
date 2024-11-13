@@ -23,7 +23,7 @@ First setup Docker's apt repository.
 > sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 > sudo apt-get update
 
-""_If you use an Ubuntu derivative distro, such as Linux Mint, you may need to use `UBUNTU_CODENAME` instead of `VERSION_CODENAME`._""
+If you use an Ubuntu derivative distro, such as Linux Mint, you may need to use `UBUNTU_CODENAME` instead of `VERSION_CODENAME`._
 
 
 ##### Install the latest version
